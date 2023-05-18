@@ -1,0 +1,1 @@
+This is an agenda/calendar/todo-list/dashboard for ADHD people, more details when i have a proper app :v
